@@ -7,3 +7,4 @@
 
  ## To-dos:
  * Let the user create his own scenes (selecting the words and the x offset, y offset and scale for each one)
+ * Change scene / redraw during current drawing (some indexes are overlapping)
